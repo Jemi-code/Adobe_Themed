@@ -1,0 +1,26 @@
+.top {
+	font-size: 15px;
+	font-weight: bold;
+	position: relative;
+	bottom: 20px;
+	background-color: darkSlateGray;
+}
+
+strong {
+	color: fireBrick;
+}
+
+.head {
+	text-align: center;
+	font-size: 20px;
+    background-color: darkSlateGray;
+}
+
+body {
+	background-color: darkRed;
+	
+}
+
+.body {
+	font-size : 20px;
+}

@@ -1,0 +1,56 @@
+img {
+height: 200px;
+width: 200px;
+border-radius: 50%;
+margin: 20px 70px 20px 70px;
+}
+
+.logo {
+height: 100px;
+width: 250px;
+}
+
+h1{
+	text-align: center;
+}
+
+body {
+	background-color: darkRed;
+}
+
+h1 {
+	background-color: gray;
+}
+
+h3 {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+	
+}
+
+.link {
+	position: absolute;
+	left: 30px;
+	top: 120px;
+}
+ p {
+	 font-size: 25px;
+	 font-weight: bold;
+	 position: absolute;
+ }
+ 
+ .p {
+	 left: 250px;
+ }
+ 
+ .f {
+	 left: 600px;
+ }
+ 
+ .a {
+	 right: 250px;
+ }
+
